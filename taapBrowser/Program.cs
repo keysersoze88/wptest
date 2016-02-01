@@ -13,7 +13,8 @@ namespace taapBrowser
         /// </summary>
         [STAThread]
         static void Main()
-        {
+        {   
+            //edit by lz20160201
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
