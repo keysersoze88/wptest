@@ -12,6 +12,7 @@ namespace taapBrowser
         /// The main entry point for the application.
         /// </summary>
         /// edit from web
+        /// edit from vs1
         [STAThread]
         static void Main()
         {   
