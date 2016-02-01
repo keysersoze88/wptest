@@ -19,6 +19,7 @@ namespace taapBrowser
             //edit by lz20160201
             //edit by lz20150122
             //edit from web1
+            //edit from vs1
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
