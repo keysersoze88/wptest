@@ -11,8 +11,8 @@
     <FIRSTDATE>2013-09-24</FIRSTDATE>
     <FIRSTTIME>16:16:59</FIRSTTIME>
     <LASTUSER>111808</LASTUSER>
-    <LASTDATE>2015-10-15</LASTDATE>
-    <LASTTIME>08:40:08</LASTTIME>
+    <LASTDATE>2015-11-25</LASTDATE>
+    <LASTTIME>09:40:53</LASTTIME>
   </HEADER>
   <INTERFACE>
     <item>
@@ -282,7 +282,7 @@
                     <sf:NODE>
                       <NODETYPE>WI</NODETYPE>
                       <sf:OBJ>
-                        <sf:WINDOW ID="11060 ">
+                        <sf:WINDOW ID="30677 ">
                           <NAME>
                             <INAME>TITLE</INAME>
                           </NAME>
@@ -298,7 +298,7 @@
                             </item>
                           </T_CAPTION>
                           <sf:PROC_CTRL>
-                            <sf:NODE ID="11084 ">
+                            <sf:NODE ID="30701 ">
                               <NODETYPE>RC</NODETYPE>
                               <sf:SUCC>
                                 <sf:item>
@@ -435,7 +435,7 @@
                     <sf:NODE>
                       <NODETYPE>WI</NODETYPE>
                       <sf:OBJ>
-                        <sf:WINDOW ID="11271 ">
+                        <sf:WINDOW ID="30888 ">
                           <NAME>
                             <INAME>HEADER</INAME>
                           </NAME>
@@ -451,7 +451,7 @@
                             </item>
                           </T_CAPTION>
                           <sf:PROC_CTRL>
-                            <sf:NODE ID="11295 ">
+                            <sf:NODE ID="30912 ">
                               <NODETYPE>RC</NODETYPE>
                               <sf:SUCC>
                                 <sf:item>
@@ -1241,7 +1241,7 @@
                                               <TEXT>
                                                 <item>
                                                   <TDFORMAT>*</TDFORMAT>
-                                                  <TDLINE>&lt;C2&gt;紧急程度:&amp;lt_data_header-JJCDT&amp;                        &lt;/&gt;</TDLINE>
+                                                  <TDLINE>&lt;C2&gt;紧急程度:&amp;lt_data_DETAIL-JJCDT&amp;                        &lt;/&gt;</TDLINE>
                                                 </item>
                                               </TEXT>
                                               <STYLE_NAME>ZFC_MM032_Q</STYLE_NAME>
@@ -1267,7 +1267,7 @@
                                                   <INAME>TEXT5</INAME>
                                                   <LINENR>000001</LINENR>
                                                   <TDFORMAT>*</TDFORMAT>
-                                                  <TDLINE>&lt;C2&gt;紧急程度:&amp;lt_data_header-JJCDT&amp;                        &lt;/&gt;</TDLINE>
+                                                  <TDLINE>&lt;C2&gt;紧急程度:&amp;lt_data_DETAIL-JJCDT&amp;                        &lt;/&gt;</TDLINE>
                                                 </item>
                                               </T_TEXT>
                                             </sf:TEXT>
@@ -1902,7 +1902,7 @@
                     <sf:NODE>
                       <NODETYPE>WI</NODETYPE>
                       <sf:OBJ>
-                        <sf:WINDOW ID="13437 ">
+                        <sf:WINDOW ID="33054 ">
                           <NAME>
                             <INAME>MAIN</INAME>
                           </NAME>
@@ -1918,7 +1918,7 @@
                             </item>
                           </T_CAPTION>
                           <sf:PROC_CTRL>
-                            <sf:NODE ID="13461 ">
+                            <sf:NODE ID="33078 ">
                               <NODETYPE>RC</NODETYPE>
                               <sf:SUCC>
                                 <sf:item>
@@ -6157,7 +6157,7 @@
                     <sf:NODE>
                       <NODETYPE>WI</NODETYPE>
                       <sf:OBJ>
-                        <sf:WINDOW ID="19579 ">
+                        <sf:WINDOW ID="39196 ">
                           <NAME>
                             <INAME>FOOT</INAME>
                           </NAME>
@@ -6173,7 +6173,7 @@
                             </item>
                           </T_CAPTION>
                           <sf:PROC_CTRL>
-                            <sf:NODE ID="19603 ">
+                            <sf:NODE ID="39220 ">
                               <NODETYPE>RC</NODETYPE>
                               <sf:SUCC>
                                 <sf:item>
